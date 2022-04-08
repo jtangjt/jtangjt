@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jtangjt. I'm an electrical engineer for NAVSEA.
 - 👩‍🎓 I am currently working on my masters degree at Johns Hopkins University
 - 💻 I am bad at programming :)
-- ⌨ I also design mechanical keyboards sometimes. I designed _Palette_, an F13 TKL. 
+- ⌨ I also design mechanical keyboards sometimes. I designed _Palette_, an F13 TKL (will release later), and _eve_, a seamless case for the prime e
 - 📧 Contact me at: jtangjt@gmail.com
 
 <!---

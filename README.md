@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jtangjt. I'm an electrical engineer for NAVSEA.
-- 👩‍🎓 I am currently pursuing a masters degree at Johns Hopkins University
-- 💻 I am bad at programming. The languages I'm bad at include Python, MATLAB, and C. I've tinkered in Verilog as well. Don't talk to me about LabVIEW.
+- 👋 Hi, I’m @jtangjt. I'm an electrical engineer for ~~NAVSEA~~ Northrop Grumman.
+- 👩‍🎓 I am also a part time student at Johns Hopkins University.
+- 💻 I am bad at programming. The languages I'm bad at include Python, MATLAB, and C. I've tinkered in Verilog as well. Don't talk to me about LabVIEW. If you want to talk about TCL you better have a charge code.
 - ⌨ I also design mechanical keyboards. I designed _Palette_, an F13 TKL (will release later), and _Eve_, a seamless case for the prime e
 - 📧 Contact me at: jtangjt@gmail.com
 
